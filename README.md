@@ -1,4 +1,4 @@
-# PyLearningHub – Proyecto Final de Python
+# PyLearningHub – Proyecto Final de módulo Python
 
 **PyLearningHub** es un curso interactivo desarrollado en Google Colab que guía paso a paso desde conceptos básicos hasta programación avanzada en Python.
 
